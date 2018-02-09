@@ -1,4 +1,7 @@
 #include <iostream>
+//Original Code from notolofflo . Eddit a few things and translated it to german.
+
+
 
 #include <string>
 using namespace std;
